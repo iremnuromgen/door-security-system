@@ -1,0 +1,22 @@
+[PROJECT]
+Target=security.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.007
+Compiler=PCM
+CCSVersion=5.007
+[Target Data]
+FileList=security.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Users\omgen\OneDrive\Belgeler\7Segment\proje2\proje 2\yeniproje3\pano\
+[C:\Users\omgen\OneDrive\Belgeler\7Segment\proje2\proje 2\yeniproje3\pano\security]
+Type=4
+[mru-list]
+1=security.c
+[Opened Files]
+1=security.c
+2=
+[security.c]
+Type=4
+[Units]
+Count=1
+1=security (main)
